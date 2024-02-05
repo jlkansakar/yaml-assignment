@@ -1,0 +1,24 @@
+person:
+  name: Jonathan
+  age: 22
+  ethnicity:
+    - Danish
+    - Nepali
+  residence: Somewhere in Copenhagen
+  hobbies:
+    - Gaming
+    - Electronic music production
+    - Dungeons & Dragons
+    - Alcoholism
+  artistName: Cleric
+  artistLink: https://soundcloud.com/clericdomain
+  favouriteDish: Dal Bhat (nepalese national dish)
+  isAlive: true
+  highestRankInLeagueOfLegendsAchieved: Diamond 2
+  githubLink: https://github.com/jlkansakar
+  codingLanguages:
+    - html
+    - css
+    - javascript
+    - kotlin
+
